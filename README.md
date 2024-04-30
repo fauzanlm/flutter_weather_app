@@ -26,7 +26,7 @@ This is a very simple application made with the Flutter framework and API from [
 ## Run Locally
 
 
-[Download .zip file](https://github.com/mhmmdfzn14/flutter-weather-app/archive/refs/heads/main.zip) and extract to your folder
+[Download .zip file](https://github.com/mhmmdfzn14/flutter_weather_app/archive/refs/heads/main.zip) and extract to your folder
 
 OR
 
@@ -35,13 +35,13 @@ Clone the project
 
 ```bash
   cd your-folder
-  git clone https://github.com/mhmmdfzn14/flutter-weather-app.git
+  git clone https://github.com/mhmmdfzn14/flutter_weather_app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd flutter-weather-app
+  cd flutter_weather_app
 ```
 
 Run project
