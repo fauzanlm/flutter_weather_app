@@ -5,8 +5,8 @@ This is a very simple application made with the Flutter framework and API from [
 
 
 ## Screenshoots
-![image](https://github.com/fauzanlm/flutter-weather-app/assets/70043864/7f8b1852-1215-4ff2-a4a0-d75158c10155)
-![image](https://github.com/fauzanlm/flutter-weather-app/assets/70043864/cc497f97-4eec-48d5-ae19-f1b469b2e80f)
+![image](https://github.com/mhmmdfzn14/flutter-weather-app/assets/70043864/7f8b1852-1215-4ff2-a4a0-d75158c10155)
+![image](https://github.com/mhmmdfzn14/flutter-weather-app/assets/70043864/cc497f97-4eec-48d5-ae19-f1b469b2e80f)
 
 
 
