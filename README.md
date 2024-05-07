@@ -1,7 +1,7 @@
 
 # Simple Weather App
 
-This is a very simple application made with the Flutter framework and API from [openweathermap](https://openweathermap.org/).
+This application, developed using the versatile Flutter framework, seamlessly integrates with the [openweathermap](https://openweathermap.org/) API to deliver real-time weather information. Its user-friendly interface and efficient design make accessing weather updates a breeze, catering to both simplicity and functionality in a single package. 
 
 
 ## Screenshoots
@@ -18,9 +18,9 @@ This is a very simple application made with the Flutter framework and API from [
 
 ## Tech Stack
 
-**Framework:** Flutter
+**Framework :** Flutter
 
-**API Weather:** [openweathermap](https://openweathermap.org/)
+**API Weather :** [openweathermap](https://openweathermap.org/)
 
 
 ## Run Locally
