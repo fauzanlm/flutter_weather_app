@@ -12,8 +12,8 @@ This is a very simple application made with the Flutter framework and API from [
 
 ## Features
 
-- Live previews
-- Auto Geolocation
+- Real-time Previews: Instantly visualize your changes as you make them, providing a seamless editing experience.
+- Automatic Geolocation Enhancement: Effortlessly enrich your content with location-based data, ensuring accuracy and relevance without manual input.
 
 
 ## Tech Stack
@@ -49,4 +49,10 @@ Run project
 ```bash
   flutter run
 ```
+
+
+## Authors
+
+- [@fauzanlm](https://www.github.com/fauzanlm)
+
 
